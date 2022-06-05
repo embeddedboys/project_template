@@ -1,3 +1,3 @@
-# PocketCamera
+# project_template
 
-PocketCamera is a simple small video recorder based on HamsterBear
+This is a template for projects on embeddedboys.

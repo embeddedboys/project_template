@@ -63,7 +63,7 @@
 干杯,
 
 <h2 align="center">
-    <img src="assets/048-boy-next.png" width="10%" />
+    <img src="assets/048-boy-next.png" width="10%" alt="embeddedboys logo" />
 </h2>
 <h2 align="center">
     <a href="https://embeddedboys.github.io/">embeddedboys</a> 献上

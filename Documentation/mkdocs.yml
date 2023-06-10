@@ -1,9 +1,9 @@
-site_name: Xenia Clock
-site_url: https://embeddedboys.github.io/XeniaClock/
-site_description: offical site of project Xenia Clock
+site_name: Project Template
+site_url: https://embeddedboys.github.io/project_template/
+site_description: offical site of Project Template
 site_author: nothing yet
 
-repo_url: https://github.com/embeddedboys/XeniaClock
+repo_url: https://github.com/embeddedboys/project_template
 theme:
   name: null
   custom_dir: 'cinder'

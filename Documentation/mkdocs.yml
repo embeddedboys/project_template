@@ -18,7 +18,7 @@ theme:
     assets/048-boy-next.png
   palette:
     - scheme: default
-      accent: green
+      accent: red
       primary: black
       toggle:
         icon: material/lightbulb

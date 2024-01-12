@@ -4,7 +4,7 @@
 
 ![badge](https://img.shields.io/github/stars/embeddedboys/project_template)
 ![badge](https://img.shields.io/github/repo-size/embeddedboys/project_template)
-![badge](https://img.shields.io/github/last-commit/iotahydrae/project_template/main)
+![badge](https://img.shields.io/github/last-commit/embeddedboys/project_template/main)
 ![badge](https://img.shields.io/github/commit-activity/t/embeddedboys/project_template)
 ![badge](https://img.shields.io/github/license/embeddedboys/project_template)
 [![build docs](https://github.com/embeddedboys/project_template/actions/workflows/blank.yml/badge.svg?branch=main&event=push)](https://github.com/embeddedboys/project_template/actions/workflows/blank.yml)

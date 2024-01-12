@@ -37,8 +37,6 @@
 ## <h2 align="center">实机演示</h2>
 <!-- 快速简短的GIF玩法展示 -->
 
-<!-- 简短的设计过程 -->
-
 > <p align="center">器件以实物为准</p>
 
 ## <h2 align="center">技术规格</h2>

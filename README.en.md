@@ -2,30 +2,38 @@
     <span>Project Template</span>
 </h1>
 
-[[ 中文 ]](README.md) [[ English ]](README.en.md)
+![badge](https://img.shields.io/github/stars/embeddedboys/project_template)
+![badge](https://img.shields.io/github/repo-size/embeddedboys/project_template)
+![badge](https://img.shields.io/github/last-commit/iotahydrae/project_template/main)
+![badge](https://img.shields.io/github/commit-activity/t/embeddedboys/project_template)
+![badge](https://img.shields.io/github/license/embeddedboys/project_template)
+[![build docs](https://github.com/embeddedboys/project_template/actions/workflows/blank.yml/badge.svg?branch=main&event=push)](https://github.com/embeddedboys/project_template/actions/workflows/blank.yml)
+[![pages-build-deployment](https://github.com/embeddedboys/project_template/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/embeddedboys/project_template/actions/workflows/pages/pages-build-deployment)
 
-web : [https://embeddedboys.github.io/project_template](https://embeddedboys.github.io/project_template)
+`Wiki` : [`https://embeddedboys.github.io/project_template`](https://embeddedboys.github.io/project_template)
 
-repo : [https://github.com/emmbeddedboys/project_template](https://github.com/emmbeddedboys/project_template)
+`Repo` : [`https://github.com/embeddedboys/project_template`](https://github.com/emmbeddedboys/project_template)
 
-<h2 align="center">
-    <span>Introduction</span>
-</h2>
+</br>
 
-<!-- A short introduction to the project -->
+> <h1 align="center">"Slogan"</h1>
 
-Introducing the **Project Template**
+## <h2 align="center">Introduction</h2>
 
+> <h3 align="center" ><strong>project_template</strong></h3> 
 
-<h2 align="center">
-    <span>Design</span>
-</h2>
+<h3 align="center">I'm glad to introduce you to project_template</h3>
 
-<!-- Short design process -->
+<div style="font-size:16px;">
+&nbsp&nbsp&nbsp&nbspproject_template is XXXXX
+</div>
 
-<h2 align="center">
-    <span>Inside</span>
-</h2>
+## <h2 align="center">Demo</h2>
+<!-- Quick and short GIF gameplay display -->
+
+> <p align="center">The device shall be subject to the actual product</p>
+
+## <h2 align="center">Technical specifications</h2>
 
 <!-- Tables about resources -->
 
@@ -45,25 +53,26 @@ Introducing the **Project Template**
 
 
 
-<h2 align="center">
-    <span>License</span>
-</h2>
+## <h2 align="center">License</h2>
 
 
 This project is published under the `MIT` license, more details, please see `About-> License`
 
-<h2 align="center">
-    <span>Thanks</span>
-</h2>
+## <h2 align="center">Thanks</h2>
 
 <!-- 对该项目做出贡献的组织或个人 -->
+<p align="center">
+embeddedboys developers</br>
+</p>
 
-Have fun with this!
-
-Cheers,
+<p align="center">
+Have fun with this!</br>
+Cheers,</br>
+</p>
 
 <h2 align="center">
-    <img src="assets/048-boy-next.png" width="10%" alt="embeddedboys logo"/>
+    <img src="assets/048-boy-next.png" width="10%" alt="embeddedboys logo" /> </br>
+    <img alt="Static Badge" src="https://img.shields.io/badge/🍺-embeddedboys-blue">
 </h2>
 <h2 align="center">
     Present by <a href="https://embeddedboys.github.io/">embeddedboys</a>

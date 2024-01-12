@@ -1,5 +1,3 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Offline?color=545454&labelColor=434343&icon=discord)](https://github.com/embeddedboys/project_template)
-
 <h1 align="center">
     <span>项目模板</span>
 </h1>
